@@ -88,7 +88,7 @@ $ http://localhost:8000
 
 ## Technology Stack
 
-- Laravel (PHP Framework)
+- Laravel (PHP Framework)git@github.com:arifsaputradev/sso-udinus.git
 - VueJS (Javascript Framework)
 - InertiaJS (Javascript Framework)
 - Tailwind CSS (Utility-First CSS Framework)
@@ -132,3 +132,4 @@ $ http://localhost:8000
 ## Licence
 
 This project is licensed under the MIT license. Please see the LICENSE file for more information.
+
